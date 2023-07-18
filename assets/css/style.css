@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+nav img {
+    width: 86px;
+    height: 25px;
+}
+nav{
+    background-color: #28A745;
+}
+.car-cupon{
+    fill: #707070;
+    width: 7px; 
+}
+.card-text{
+    color: #707070;
+    font-size: 1rem;
+}
+.card-text-p{
+    color: #707070;
+    font-size: 0.8rem;
+}
+.card-title{
+    color: #212529;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.precios{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.precios p{
+    margin-left: 2rem;
+    
+}
+.precios .pres-norm{
+font-size: 1rem;
+color: #707070;
+}
+.precios .pres-ofe{
+    font-size: 1.25rem;
+    color: #28A745;  
+}
+form{
+    background-color: #28A745;
+    text-align: center;
+    color: #FFFFFF;
+}
+.btn-form{
+    background-color: #F8F9FA;
+    border-radius: 3px;
+    color: #212529;
+    font-size: 1rem;
+    width: 7rem;
+    height: 2.5rem;
+}
+footer{
+    text-align: center;
+}
+footer img{
+    width: 5.125rem;
+    height: 1.5rem;
+    margin-bottom: 2rem;
+}
+footer p{
+    color: #707070;
+    font-size: 1rem;
+}
